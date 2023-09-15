@@ -1,5 +1,5 @@
-# sh
+# script
 
 ***2023/9/14***
 
-***TO learn git and shell***
+***TO learn( git && shell && python)***
